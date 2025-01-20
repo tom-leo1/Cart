@@ -1,0 +1,56 @@
+.cart-header{
+    margin-top: 10px;
+    color: skyblue;
+}
+.cart-caption{
+    color: pink;
+}
+.cart-btn{
+    margin-top: -100px;
+}
+
+.btn-item{
+    margin-top: -60px;
+    margin-right: 40px;
+}
+.cart-container{
+    float: left
+}
+.img-whislist{
+    height: 40px;
+    width: 40px;
+    border: none;
+}
+.btn-whislist{
+    border: none;
+    margin-left: 8px;
+}
+.cart-img{
+    height: 300px;
+    width: 300px;
+    margin-left: 40px;
+    border-radius:12px;
+    border-color: black;
+    border-width: 4px;
+    box-shadow: inset;
+}
+
+.btn-add{
+    color: green;
+    background-color: pink;
+    border-radius: 5px;
+    margin: 1px;
+    border: none;
+}
+.btn-cart{
+    color: white;
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 5px;
+    margin: 1px;
+}
+
+
+
+
+  
